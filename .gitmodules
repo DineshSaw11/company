@@ -1,0 +1,3 @@
+[submodule "microservices/department"]
+	path = microservices/department
+	url = https://github.com/DineshSaw11/department.git
